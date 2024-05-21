@@ -1,4 +1,13 @@
-<h2 align="center">Hi 👋! My name is Jasjeev Singh kohli</h2>
+<h2 align="center">Hello 👋! How's it going?</h2>
+
+
+Hello, my name is Jasjeev Singh Kohli and I am a Bachelor's Student at [Maharaja Agrasen institute Of Technology](https://mait.ac.in/) majoring in Information Technology. I am a full-stack software developer  at  My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in Chess.
+
+- 🔭 I’m currently building different Web Stacks Projects.
+- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 📫 How to reach me: rsjcoepit@gmail.com
+- 😄 Pronouns: Programmer/He/His/Him
+- 📝 [Resume](https://rusty-sj.github.io/media)
 
 ###
 
