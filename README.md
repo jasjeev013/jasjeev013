@@ -5,7 +5,7 @@ Hello, my name is Jasjeev Singh Kohli and I am a Bachelor's Student at [Maharaja
 
 - 🔭 I’m currently building different Web Stacks Projects.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: rsjcoepit@gmail.com
+- 📫 How to reach me: jasjeev99@gmail.com
 - 😄 Pronouns: Programmer/He/His/Him
 - 📝 [Resume](https://rusty-sj.github.io/media)
 
