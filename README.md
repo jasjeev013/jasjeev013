@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋! How's it going?</h1>
+<h1 align="left">Hello 👋! How's it going !?</h1>
 
 ###
 
@@ -8,7 +8,8 @@
 
 ###
 
-<p align="left">Hello, my name is Jasjeev Singh Kohli and I am a Bachelor's Student at Maharaja Agrasen Institute Of Technology majoring in Information Technology. I am a full-stack software developer at My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in Chess.<br><br>🔭 I’m currently building different Web Stacks Projects.<br>💬 Brainstorm with me over tech, algorithms, career, and music<br>📫 How to reach me: jasjeev99@gmail.com<br>😄 Pronouns: Programmer/He/His/Him<br>📝 Resume</p>
+<p align="left">Hello, my name is Jasjeev Singh Kohli and I am a Bachelor's Student at Maharaja Agrasen Institute Of Technology majoring in Information Technology. I am a full-stack software developer at My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in Chess.<br><br>🔭 I’m currently building different Web Stacks Projects.<br>💬 Brainstorm with me over tech, algorithms, career, and music<br>📫 How to reach me: [Email](mailto:jasjeev99@gmail.com)<br>😄 Pronouns: Programmer/He/His/Him<br>📝 [Resume](https://rusty-sj.github.io/media)
+</p>
 
 ###
 
