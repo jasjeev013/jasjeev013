@@ -1,15 +1,15 @@
-<h1 align="left">Hello 👋! How's it going !?</h1>
+<h1 align="left">Hello 👋! How's it going :)</h1>
 
 ###
 
-<br clear="both">
+<!--<br clear="both">
 
-<!-- <img align="right" height="250" src="https://avatars.githubusercontent.com/u/110547728?v=4"  /> -->
+ <img align="right" height="250" src="https://avatars.githubusercontent.com/u/110547728?v=4"  />-->
 
 ###
 
-<p align="left">Hello, my name is Jasjeev Singh Kohli and I am a Bachelor's Student at Maharaja Agrasen Institute Of Technology majoring in Information Technology. I am a full-stack software developer at My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in Chess.<br><br>🔭 I’m currently building different Web Stacks Projects.<br>💬 Brainstorm with me over tech, algorithms, career, and music<br>📫 How to reach me: <a href="mailto:jasjeev99@gmail.com" target="_blank">jasjeev99@gmail.com</a>
-<br>😄 Pronouns: Programmer/He/His/Him<br>📝 Resume <a href="https://rusty-sj.github.io/media" target="_blank">Link</a>
+<p align="left">My name is Jasjeev Singh Kohli and I am a Bachelor's Student at Maharaja Agrasen Institute Of Technology (MAIT) majoring in Information Technology.I’m a Java backend developer skilled in Java/J2EE, Spring, Hibernate, and MySQL, with experience in the MERN stack to build full web applications. Besides programming, I have an immense interest in Chess.<br><br>🔭 I’m currently building different Web Stacks Projects.<br>💬 Brainstorm with me over tech, algorithms, career, and music<br>📫 How to reach me: <a href="mailto:jasjeev99@gmail.com" target="_blank">jasjeev99@gmail.com</a>
+<br>📝 Resume <a href="https://rusty-sj.github.io/media" target="_blank">Link</a>
 </p>
 
 ###
