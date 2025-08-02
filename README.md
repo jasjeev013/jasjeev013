@@ -13,7 +13,7 @@
 </p>
 
 
-### 🔗 Connect with Me
+## 🔗 Connect with Me
 <div align="center" style="padding: 10px;">
   <a href="https://www.linkedin.com/in/jskkk013" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Jasjeev%20Singh%20Kohli-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
