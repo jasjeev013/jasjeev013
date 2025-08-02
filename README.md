@@ -88,7 +88,7 @@
   <a href="https://github.com/jasjeev013/Neuroquery-Chroma-RAG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=Neuroquery-Chroma-RAG&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
-
+<br/><br/>
   <a href="https://github.com/jasjeev013/GoRentzyy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=GoRentzyy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
@@ -96,7 +96,14 @@
   <a href="https://github.com/jasjeev013/hustle-hub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=hustle-hub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
+<br/><br/>
+ <a href="https://github.com/jasjeev013/neighbouly-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=neighbouly-frontend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
 
+  <a href="https://github.com/jasjeev013/AI-SQUAD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=AI-SQUAD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
 </div>
 
 <!--
