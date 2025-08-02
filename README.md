@@ -59,31 +59,46 @@
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" height="30"/>
 </p>
 
+## 📈 GitHub Stats
 
-## &#x1f4c8; GitHub Stats
+<div align="center">
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasjeev013&hide=jupyter+notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasjeev013&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+  <!-- Top Languages -->
+  <a href="https://github.com/jasjeev013">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasjeev013&hide=jupyter+notebook&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=Geo-Mineral-Insight-RasterSim&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+  <!-- GitHub Stats -->
+  <a href="https://github.com/jasjeev013">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasjeev013&show_icons=true&count_private=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=Neuroquery-Chroma-RAG&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</div>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=GoRentzyy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
+<br/>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=hustle-hub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/jasjeev013/Geo-Mineral-Insight-RasterSim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=Geo-Mineral-Insight-RasterSim&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+
+  <a href="https://github.com/jasjeev013/Neuroquery-Chroma-RAG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=Neuroquery-Chroma-RAG&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+
+  <a href="https://github.com/jasjeev013/GoRentzyy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=GoRentzyy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+
+  <a href="https://github.com/jasjeev013/hustle-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasjeev013&repo=hustle-hub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+
+</div>
+
 <!--
 ## Projects
 <a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/repo?user=jasjeev013&repo=Neuroquery-Chroma-RAG&theme=monokai&layout=compact"/></a>
@@ -100,6 +115,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasjeev013&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=jasjeev013&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasjeev013&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>-->
+</div>
 
 ###
